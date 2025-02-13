@@ -1,0 +1,67 @@
+{
+  "app_settings": {
+    "window_title": "Interactive Installation Questionnaire",
+    "window_size": "600x1000"
+  },
+  "rating_settings": {
+    "questions": [
+      {
+        "statement": "The installation was easy to understand and interact with.",
+        "is_negative": false
+      },
+      {
+        "statement": "I felt confused about how to interact with the installation.",
+        "is_negative": true
+      },
+      {
+        "statement": "The installation responded in a timely and appropriate manner to my actions.",
+        "is_negative": false
+      },
+      {
+        "statement": "I felt discouraged from exploring different interactions with the installation.",
+        "is_negative": true
+      },
+      {
+        "statement": "The visual and auditory feedback provided by the installation was clear and helpful.",
+        "is_negative": false
+      },
+      {
+        "statement": "I found the interaction with the installation to be unintuitive.",
+        "is_negative": true
+      },
+      {
+        "statement": "I lost interest in the installation quickly.",
+        "is_negative": true
+      },
+      {
+        "statement": "I felt a lack of control while using the installation.",
+        "is_negative": true
+      },
+      {
+        "statement": "The installation provided a unique and memorable experience.",
+        "is_negative": false
+      },
+      {
+        "statement": "I would not recommend this installation to others.",
+        "is_negative": true
+      }
+    ],
+    "default_rating_range": [
+      1,
+      10
+    ],
+    "force_ratings": false
+  },
+  "open_questions_settings": {
+    "questions": [
+      "What aspects of the installation did you find most engaging, and why?",
+      "Were there any moments where you felt confused or unsure about how to interact?",
+      "How would you improve the installation to enhance the experience?"
+    ]
+  },
+  "visualization_settings": {
+    "plot_defaults": {
+      "heatmap_colormap": "viridis"
+    }
+  }
+}

@@ -1,0 +1,1202 @@
+[
+    {
+        "participant_number": "a1",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 3,
+            "rating_3": 8,
+            "rating_4": 3,
+            "rating_5": 9,
+            "rating_6": 3,
+            "rating_7": 2,
+            "rating_8": 3,
+            "rating_9": 6,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "It was difficult to understand at first, but it became easier.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "I think more guidance could help new users."
+        }
+    },
+    {
+        "participant_number": "a2",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 3,
+            "rating_3": 6,
+            "rating_4": 5,
+            "rating_5": 6,
+            "rating_6": 2,
+            "rating_7": 1,
+            "rating_8": 5,
+            "rating_9": 6,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "It was difficult to understand at first, but it became easier.",
+            "open_2": "It was difficult to understand at first, but it became easier.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "a3",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 2,
+            "rating_3": 8,
+            "rating_4": 5,
+            "rating_5": 9,
+            "rating_6": 4,
+            "rating_7": 3,
+            "rating_8": 2,
+            "rating_9": 7,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "The installation felt unpredictable at times.",
+            "open_2": "I liked the way it responded to my presence.",
+            "open_3": "I found some aspects confusing, especially the timing of responses."
+        }
+    },
+    {
+        "participant_number": "a4",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 5,
+            "rating_3": 10,
+            "rating_4": 1,
+            "rating_5": 10,
+            "rating_6": 4,
+            "rating_7": 2,
+            "rating_8": 2,
+            "rating_9": 8,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "The installation felt unpredictable at times."
+        }
+    },
+    {
+        "participant_number": "a5",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 1,
+            "rating_3": 6,
+            "rating_4": 1,
+            "rating_5": 7,
+            "rating_6": 4,
+            "rating_7": 2,
+            "rating_8": 5,
+            "rating_9": 9,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "The lighting changes were very effective.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "I think more guidance could help new users."
+        }
+    },
+    {
+        "participant_number": "a6",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 5,
+            "rating_3": 8,
+            "rating_4": 2,
+            "rating_5": 9,
+            "rating_6": 4,
+            "rating_7": 2,
+            "rating_8": 2,
+            "rating_9": 10,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "Adding more visual feedback could improve the experience.",
+            "open_2": "The installation felt unpredictable at times.",
+            "open_3": "The lighting changes were very effective."
+        }
+    },
+    {
+        "participant_number": "a7",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 1,
+            "rating_3": 9,
+            "rating_4": 1,
+            "rating_5": 10,
+            "rating_6": 3,
+            "rating_7": 3,
+            "rating_8": 4,
+            "rating_9": 7,
+            "rating_10": 1
+        },
+        "open_answers": {
+            "open_1": "The installation felt unpredictable at times.",
+            "open_2": "I would have liked more variety in responses.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "a8",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 1,
+            "rating_3": 7,
+            "rating_4": 3,
+            "rating_5": 6,
+            "rating_6": 3,
+            "rating_7": 3,
+            "rating_8": 3,
+            "rating_9": 6,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "The installation felt unpredictable at times.",
+            "open_2": "I would have liked more variety in responses.",
+            "open_3": "I would have liked more variety in responses."
+        }
+    },
+    {
+        "participant_number": "a9",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 3,
+            "rating_3": 7,
+            "rating_4": 2,
+            "rating_5": 8,
+            "rating_6": 2,
+            "rating_7": 5,
+            "rating_8": 3,
+            "rating_9": 6,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "The installation felt unpredictable at times.",
+            "open_2": "I liked the way it responded to my presence.",
+            "open_3": "Adding more visual feedback could improve the experience."
+        }
+    },
+    {
+        "participant_number": "a10",
+        "ratings": {
+            "rating_1": 10,
+            "rating_2": 4,
+            "rating_3": 9,
+            "rating_4": 3,
+            "rating_5": 9,
+            "rating_6": 5,
+            "rating_7": 1,
+            "rating_8": 2,
+            "rating_9": 9,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "I found some aspects confusing, especially the timing of responses.",
+            "open_2": "I found some aspects confusing, especially the timing of responses.",
+            "open_3": "I liked the way it responded to my presence."
+        }
+    },
+    {
+        "participant_number": "a11",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 4,
+            "rating_3": 6,
+            "rating_4": 1,
+            "rating_5": 9,
+            "rating_6": 3,
+            "rating_7": 3,
+            "rating_8": 5,
+            "rating_9": 10,
+            "rating_10": 1
+        },
+        "open_answers": {
+            "open_1": "I would have liked more variety in responses.",
+            "open_2": "I think more guidance could help new users.",
+            "open_3": "The installation felt unpredictable at times."
+        }
+    },
+    {
+        "participant_number": "a12",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 4,
+            "rating_3": 10,
+            "rating_4": 4,
+            "rating_5": 9,
+            "rating_6": 1,
+            "rating_7": 2,
+            "rating_8": 2,
+            "rating_9": 7,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "The interaction was engaging and intuitive.",
+            "open_2": "Adding more visual feedback could improve the experience.",
+            "open_3": "Adding more visual feedback could improve the experience."
+        }
+    },
+    {
+        "participant_number": "a13",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 2,
+            "rating_3": 7,
+            "rating_4": 3,
+            "rating_5": 7,
+            "rating_6": 5,
+            "rating_7": 5,
+            "rating_8": 5,
+            "rating_9": 6,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "I would have liked more variety in responses."
+        }
+    },
+    {
+        "participant_number": "a14",
+        "ratings": {
+            "rating_1": 10,
+            "rating_2": 2,
+            "rating_3": 7,
+            "rating_4": 3,
+            "rating_5": 10,
+            "rating_6": 5,
+            "rating_7": 3,
+            "rating_8": 5,
+            "rating_9": 7,
+            "rating_10": 1
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "The installation felt unpredictable at times.",
+            "open_3": "I found some aspects confusing, especially the timing of responses."
+        }
+    },
+    {
+        "participant_number": "a15",
+        "ratings": {
+            "rating_1": 10,
+            "rating_2": 1,
+            "rating_3": 10,
+            "rating_4": 4,
+            "rating_5": 8,
+            "rating_6": 5,
+            "rating_7": 3,
+            "rating_8": 3,
+            "rating_9": 6,
+            "rating_10": 1
+        },
+        "open_answers": {
+            "open_1": "I found some aspects confusing, especially the timing of responses.",
+            "open_2": "I think more guidance could help new users.",
+            "open_3": "I found some aspects confusing, especially the timing of responses."
+        }
+    },
+    {
+        "participant_number": "b1",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 4,
+            "rating_3": 5,
+            "rating_4": 4,
+            "rating_5": 5,
+            "rating_6": 7,
+            "rating_7": 6,
+            "rating_8": 5,
+            "rating_9": 5,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "Adding more visual feedback could improve the experience.",
+            "open_2": "The installation felt unpredictable at times.",
+            "open_3": "Adding more visual feedback could improve the experience."
+        }
+    },
+    {
+        "participant_number": "b2",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 6,
+            "rating_3": 5,
+            "rating_4": 5,
+            "rating_5": 7,
+            "rating_6": 4,
+            "rating_7": 5,
+            "rating_8": 5,
+            "rating_9": 6,
+            "rating_10": 6
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "The installation felt unpredictable at times."
+        }
+    },
+    {
+        "participant_number": "b3",
+        "ratings": {
+            "rating_1": 5,
+            "rating_2": 6,
+            "rating_3": 4,
+            "rating_4": 6,
+            "rating_5": 5,
+            "rating_6": 6,
+            "rating_7": 4,
+            "rating_8": 7,
+            "rating_9": 8,
+            "rating_10": 7
+        },
+        "open_answers": {
+            "open_1": "I liked the way it responded to my presence.",
+            "open_2": "I would have liked more variety in responses.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "b4",
+        "ratings": {
+            "rating_1": 5,
+            "rating_2": 4,
+            "rating_3": 4,
+            "rating_4": 4,
+            "rating_5": 4,
+            "rating_6": 4,
+            "rating_7": 4,
+            "rating_8": 3,
+            "rating_9": 7,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "The installation felt unpredictable at times.",
+            "open_2": "A clearer start point would be helpful.",
+            "open_3": "Adding more visual feedback could improve the experience."
+        }
+    },
+    {
+        "participant_number": "b5",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 5,
+            "rating_3": 5,
+            "rating_4": 4,
+            "rating_5": 7,
+            "rating_6": 5,
+            "rating_7": 4,
+            "rating_8": 6,
+            "rating_9": 5,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "The lighting changes were very effective.",
+            "open_2": "I found some aspects confusing, especially the timing of responses.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "b6",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 7,
+            "rating_3": 8,
+            "rating_4": 7,
+            "rating_5": 6,
+            "rating_6": 4,
+            "rating_7": 5,
+            "rating_8": 7,
+            "rating_9": 4,
+            "rating_10": 7
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "A clearer start point would be helpful.",
+            "open_3": "The lighting changes were very effective."
+        }
+    },
+    {
+        "participant_number": "b7",
+        "ratings": {
+            "rating_1": 4,
+            "rating_2": 4,
+            "rating_3": 7,
+            "rating_4": 6,
+            "rating_5": 7,
+            "rating_6": 7,
+            "rating_7": 4,
+            "rating_8": 6,
+            "rating_9": 6,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "It was difficult to understand at first, but it became easier.",
+            "open_2": "I found some aspects confusing, especially the timing of responses.",
+            "open_3": "A clearer start point would be helpful."
+        }
+    },
+    {
+        "participant_number": "b8",
+        "ratings": {
+            "rating_1": 5,
+            "rating_2": 7,
+            "rating_3": 6,
+            "rating_4": 3,
+            "rating_5": 8,
+            "rating_6": 4,
+            "rating_7": 5,
+            "rating_8": 5,
+            "rating_9": 7,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "A clearer start point would be helpful.",
+            "open_2": "It was difficult to understand at first, but it became easier.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "b9",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 6,
+            "rating_3": 5,
+            "rating_4": 7,
+            "rating_5": 7,
+            "rating_6": 7,
+            "rating_7": 7,
+            "rating_8": 6,
+            "rating_9": 7,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "A clearer start point would be helpful.",
+            "open_2": "A clearer start point would be helpful.",
+            "open_3": "The lighting changes were very effective."
+        }
+    },
+    {
+        "participant_number": "b10",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 3,
+            "rating_3": 7,
+            "rating_4": 7,
+            "rating_5": 4,
+            "rating_6": 5,
+            "rating_7": 3,
+            "rating_8": 4,
+            "rating_9": 8,
+            "rating_10": 7
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "I think more guidance could help new users.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "b11",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 7,
+            "rating_3": 7,
+            "rating_4": 5,
+            "rating_5": 7,
+            "rating_6": 5,
+            "rating_7": 6,
+            "rating_8": 4,
+            "rating_9": 5,
+            "rating_10": 7
+        },
+        "open_answers": {
+            "open_1": "It was difficult to understand at first, but it became easier.",
+            "open_2": "I liked the way it responded to my presence.",
+            "open_3": "The installation felt unpredictable at times."
+        }
+    },
+    {
+        "participant_number": "b12",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 7,
+            "rating_3": 4,
+            "rating_4": 4,
+            "rating_5": 7,
+            "rating_6": 7,
+            "rating_7": 6,
+            "rating_8": 4,
+            "rating_9": 5,
+            "rating_10": 7
+        },
+        "open_answers": {
+            "open_1": "I found some aspects confusing, especially the timing of responses.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "I liked the way it responded to my presence."
+        }
+    },
+    {
+        "participant_number": "b13",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 5,
+            "rating_3": 6,
+            "rating_4": 5,
+            "rating_5": 5,
+            "rating_6": 5,
+            "rating_7": 4,
+            "rating_8": 5,
+            "rating_9": 5,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "I think more guidance could help new users.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "b14",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 5,
+            "rating_3": 7,
+            "rating_4": 6,
+            "rating_5": 5,
+            "rating_6": 5,
+            "rating_7": 3,
+            "rating_8": 4,
+            "rating_9": 5,
+            "rating_10": 7
+        },
+        "open_answers": {
+            "open_1": "I liked the way it responded to my presence.",
+            "open_2": "I think more guidance could help new users.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "b15",
+        "ratings": {
+            "rating_1": 5,
+            "rating_2": 6,
+            "rating_3": 6,
+            "rating_4": 4,
+            "rating_5": 4,
+            "rating_6": 6,
+            "rating_7": 3,
+            "rating_8": 6,
+            "rating_9": 7,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "The lighting changes were very effective.",
+            "open_2": "A clearer start point would be helpful.",
+            "open_3": "I think more guidance could help new users."
+        }
+    },
+    {
+        "participant_number": "c1",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 1,
+            "rating_3": 8,
+            "rating_4": 3,
+            "rating_5": 10,
+            "rating_6": 2,
+            "rating_7": 1,
+            "rating_8": 3,
+            "rating_9": 9,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "The installation felt unpredictable at times.",
+            "open_2": "I liked the way it responded to my presence.",
+            "open_3": "I liked the way it responded to my presence."
+        }
+    },
+    {
+        "participant_number": "c2",
+        "ratings": {
+            "rating_1": 10,
+            "rating_2": 1,
+            "rating_3": 7,
+            "rating_4": 2,
+            "rating_5": 9,
+            "rating_6": 1,
+            "rating_7": 2,
+            "rating_8": 3,
+            "rating_9": 7,
+            "rating_10": 1
+        },
+        "open_answers": {
+            "open_1": "Adding more visual feedback could improve the experience.",
+            "open_2": "The interaction was engaging and intuitive.",
+            "open_3": "The installation felt unpredictable at times."
+        }
+    },
+    {
+        "participant_number": "c3",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 3,
+            "rating_3": 7,
+            "rating_4": 3,
+            "rating_5": 7,
+            "rating_6": 1,
+            "rating_7": 1,
+            "rating_8": 3,
+            "rating_9": 8,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "I would have liked more variety in responses.",
+            "open_3": "Adding more visual feedback could improve the experience."
+        }
+    },
+    {
+        "participant_number": "c4",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 2,
+            "rating_3": 8,
+            "rating_4": 2,
+            "rating_5": 9,
+            "rating_6": 1,
+            "rating_7": 1,
+            "rating_8": 2,
+            "rating_9": 10,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "I would have liked more variety in responses.",
+            "open_2": "It was difficult to understand at first, but it became easier.",
+            "open_3": "Adding more visual feedback could improve the experience."
+        }
+    },
+    {
+        "participant_number": "c5",
+        "ratings": {
+            "rating_1": 10,
+            "rating_2": 2,
+            "rating_3": 8,
+            "rating_4": 1,
+            "rating_5": 9,
+            "rating_6": 2,
+            "rating_7": 2,
+            "rating_8": 3,
+            "rating_9": 7,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "The lighting changes were very effective.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "The installation felt unpredictable at times."
+        }
+    },
+    {
+        "participant_number": "c6",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 1,
+            "rating_3": 10,
+            "rating_4": 1,
+            "rating_5": 7,
+            "rating_6": 4,
+            "rating_7": 1,
+            "rating_8": 2,
+            "rating_9": 10,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "I liked the way it responded to my presence.",
+            "open_2": "I would have liked more variety in responses.",
+            "open_3": "I think more guidance could help new users."
+        }
+    },
+    {
+        "participant_number": "c7",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 4,
+            "rating_3": 9,
+            "rating_4": 1,
+            "rating_5": 7,
+            "rating_6": 1,
+            "rating_7": 2,
+            "rating_8": 4,
+            "rating_9": 9,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "The installation felt unpredictable at times."
+        }
+    },
+    {
+        "participant_number": "c8",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 3,
+            "rating_3": 9,
+            "rating_4": 2,
+            "rating_5": 9,
+            "rating_6": 4,
+            "rating_7": 4,
+            "rating_8": 1,
+            "rating_9": 8,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "I liked the way it responded to my presence.",
+            "open_3": "I liked the way it responded to my presence."
+        }
+    },
+    {
+        "participant_number": "c9",
+        "ratings": {
+            "rating_1": 10,
+            "rating_2": 3,
+            "rating_3": 10,
+            "rating_4": 4,
+            "rating_5": 9,
+            "rating_6": 3,
+            "rating_7": 2,
+            "rating_8": 3,
+            "rating_9": 9,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "I think more guidance could help new users.",
+            "open_3": "I liked the way it responded to my presence."
+        }
+    },
+    {
+        "participant_number": "c10",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 3,
+            "rating_3": 8,
+            "rating_4": 4,
+            "rating_5": 8,
+            "rating_6": 2,
+            "rating_7": 3,
+            "rating_8": 2,
+            "rating_9": 10,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "A clearer start point would be helpful.",
+            "open_2": "I would have liked more variety in responses.",
+            "open_3": "The lighting changes were very effective."
+        }
+    },
+    {
+        "participant_number": "c11",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 1,
+            "rating_3": 10,
+            "rating_4": 1,
+            "rating_5": 8,
+            "rating_6": 2,
+            "rating_7": 1,
+            "rating_8": 1,
+            "rating_9": 10,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "The interaction was engaging and intuitive.",
+            "open_2": "It was difficult to understand at first, but it became easier.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "c12",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 3,
+            "rating_3": 10,
+            "rating_4": 1,
+            "rating_5": 8,
+            "rating_6": 2,
+            "rating_7": 3,
+            "rating_8": 2,
+            "rating_9": 7,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "A clearer start point would be helpful.",
+            "open_2": "It was difficult to understand at first, but it became easier.",
+            "open_3": "A clearer start point would be helpful."
+        }
+    },
+    {
+        "participant_number": "c13",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 4,
+            "rating_3": 9,
+            "rating_4": 4,
+            "rating_5": 9,
+            "rating_6": 2,
+            "rating_7": 4,
+            "rating_8": 1,
+            "rating_9": 9,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "A clearer start point would be helpful.",
+            "open_2": "I would have liked more variety in responses.",
+            "open_3": "The interaction was engaging and intuitive."
+        }
+    },
+    {
+        "participant_number": "c14",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 2,
+            "rating_3": 7,
+            "rating_4": 4,
+            "rating_5": 8,
+            "rating_6": 2,
+            "rating_7": 4,
+            "rating_8": 2,
+            "rating_9": 7,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "Adding more visual feedback could improve the experience.",
+            "open_2": "The installation felt unpredictable at times.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "c15",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 4,
+            "rating_3": 7,
+            "rating_4": 2,
+            "rating_5": 8,
+            "rating_6": 2,
+            "rating_7": 2,
+            "rating_8": 2,
+            "rating_9": 8,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "The interaction was engaging and intuitive.",
+            "open_2": "I think more guidance could help new users.",
+            "open_3": "A clearer start point would be helpful."
+        }
+    },
+    {
+        "participant_number": "d1",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 5,
+            "rating_3": 6,
+            "rating_4": 2,
+            "rating_5": 6,
+            "rating_6": 2,
+            "rating_7": 4,
+            "rating_8": 3,
+            "rating_9": 6,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "Adding more visual feedback could improve the experience.",
+            "open_2": "I found some aspects confusing, especially the timing of responses.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "d2",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 5,
+            "rating_3": 9,
+            "rating_4": 3,
+            "rating_5": 8,
+            "rating_6": 2,
+            "rating_7": 4,
+            "rating_8": 5,
+            "rating_9": 9,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "I liked the way it responded to my presence.",
+            "open_2": "I would have liked more variety in responses.",
+            "open_3": "I would have liked more variety in responses."
+        }
+    },
+    {
+        "participant_number": "d3",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 2,
+            "rating_3": 8,
+            "rating_4": 2,
+            "rating_5": 8,
+            "rating_6": 3,
+            "rating_7": 3,
+            "rating_8": 2,
+            "rating_9": 8,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "Adding more visual feedback could improve the experience.",
+            "open_2": "It was difficult to understand at first, but it became easier.",
+            "open_3": "I liked the way it responded to my presence."
+        }
+    },
+    {
+        "participant_number": "d4",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 5,
+            "rating_3": 6,
+            "rating_4": 3,
+            "rating_5": 9,
+            "rating_6": 2,
+            "rating_7": 3,
+            "rating_8": 4,
+            "rating_9": 7,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "The interaction was engaging and intuitive.",
+            "open_2": "It was difficult to understand at first, but it became easier.",
+            "open_3": "The interaction was engaging and intuitive."
+        }
+    },
+    {
+        "participant_number": "d5",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 5,
+            "rating_3": 7,
+            "rating_4": 5,
+            "rating_5": 8,
+            "rating_6": 3,
+            "rating_7": 4,
+            "rating_8": 4,
+            "rating_9": 9,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "I would have liked more variety in responses.",
+            "open_2": "The interaction was engaging and intuitive.",
+            "open_3": "I would have liked more variety in responses."
+        }
+    },
+    {
+        "participant_number": "d6",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 3,
+            "rating_3": 8,
+            "rating_4": 3,
+            "rating_5": 8,
+            "rating_6": 2,
+            "rating_7": 2,
+            "rating_8": 5,
+            "rating_9": 7,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "Adding more visual feedback could improve the experience.",
+            "open_3": "I found some aspects confusing, especially the timing of responses."
+        }
+    },
+    {
+        "participant_number": "d7",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 3,
+            "rating_3": 6,
+            "rating_4": 4,
+            "rating_5": 6,
+            "rating_6": 3,
+            "rating_7": 4,
+            "rating_8": 2,
+            "rating_9": 8,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "It was difficult to understand at first, but it became easier."
+        }
+    },
+    {
+        "participant_number": "d8",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 4,
+            "rating_3": 6,
+            "rating_4": 3,
+            "rating_5": 9,
+            "rating_6": 2,
+            "rating_7": 3,
+            "rating_8": 3,
+            "rating_9": 6,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "The lighting changes were very effective."
+        }
+    },
+    {
+        "participant_number": "d9",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 2,
+            "rating_3": 9,
+            "rating_4": 3,
+            "rating_5": 7,
+            "rating_6": 2,
+            "rating_7": 3,
+            "rating_8": 2,
+            "rating_9": 6,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "I found some aspects confusing, especially the timing of responses.",
+            "open_2": "Adding more visual feedback could improve the experience.",
+            "open_3": "I would have liked more variety in responses."
+        }
+    },
+    {
+        "participant_number": "d10",
+        "ratings": {
+            "rating_1": 7,
+            "rating_2": 4,
+            "rating_3": 8,
+            "rating_4": 3,
+            "rating_5": 8,
+            "rating_6": 3,
+            "rating_7": 5,
+            "rating_8": 5,
+            "rating_9": 9,
+            "rating_10": 4
+        },
+        "open_answers": {
+            "open_1": "It was difficult to understand at first, but it became easier.",
+            "open_2": "I liked the way it responded to my presence.",
+            "open_3": "The installation felt unpredictable at times."
+        }
+    },
+    {
+        "participant_number": "d11",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 5,
+            "rating_3": 6,
+            "rating_4": 5,
+            "rating_5": 8,
+            "rating_6": 3,
+            "rating_7": 2,
+            "rating_8": 2,
+            "rating_9": 7,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "The lighting changes were very effective.",
+            "open_2": "I liked the way it responded to my presence.",
+            "open_3": "I liked the way it responded to my presence."
+        }
+    },
+    {
+        "participant_number": "d12",
+        "ratings": {
+            "rating_1": 9,
+            "rating_2": 3,
+            "rating_3": 9,
+            "rating_4": 5,
+            "rating_5": 9,
+            "rating_6": 5,
+            "rating_7": 4,
+            "rating_8": 2,
+            "rating_9": 6,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "The installation felt unpredictable at times.",
+            "open_2": "I found some aspects confusing, especially the timing of responses.",
+            "open_3": "Adding more visual feedback could improve the experience."
+        }
+    },
+    {
+        "participant_number": "d13",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 2,
+            "rating_3": 9,
+            "rating_4": 3,
+            "rating_5": 9,
+            "rating_6": 2,
+            "rating_7": 4,
+            "rating_8": 2,
+            "rating_9": 6,
+            "rating_10": 5
+        },
+        "open_answers": {
+            "open_1": "I would have liked more variety in responses.",
+            "open_2": "The lighting changes were very effective.",
+            "open_3": "I found some aspects confusing, especially the timing of responses."
+        }
+    },
+    {
+        "participant_number": "d14",
+        "ratings": {
+            "rating_1": 8,
+            "rating_2": 5,
+            "rating_3": 8,
+            "rating_4": 2,
+            "rating_5": 6,
+            "rating_6": 2,
+            "rating_7": 5,
+            "rating_8": 3,
+            "rating_9": 8,
+            "rating_10": 2
+        },
+        "open_answers": {
+            "open_1": "Adding more visual feedback could improve the experience.",
+            "open_2": "I found some aspects confusing, especially the timing of responses.",
+            "open_3": "I think more guidance could help new users."
+        }
+    },
+    {
+        "participant_number": "d15",
+        "ratings": {
+            "rating_1": 6,
+            "rating_2": 5,
+            "rating_3": 7,
+            "rating_4": 2,
+            "rating_5": 9,
+            "rating_6": 3,
+            "rating_7": 4,
+            "rating_8": 4,
+            "rating_9": 9,
+            "rating_10": 3
+        },
+        "open_answers": {
+            "open_1": "I think more guidance could help new users.",
+            "open_2": "The interaction was engaging and intuitive.",
+            "open_3": "I think more guidance could help new users."
+        }
+    }
+]
