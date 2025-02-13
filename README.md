@@ -193,7 +193,7 @@ Typical layout for `questionnaire_responses.json`:
 
 ---
 
-## Additional Considerations
+## Future Considerations
 
 - **Versioning & Backups:** Use version control to track changes to `config.json`.
 
